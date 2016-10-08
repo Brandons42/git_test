@@ -1,1 +1,1 @@
-This is Brandons42's first git project!
+This is a git project by Brandons42!
